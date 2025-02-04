@@ -22,7 +22,7 @@ classDiagram
 
     Form1 --> Listdouble : ใช้เก็บข้อมูล GPA
 
-    class List~double~ {
+    class Listdouble {
         + Add(double item)
         + double Average()
         + double Max()
